@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "node-sass": "^4.9.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rscheurman/modern_portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rscheurman/modern_portfolio/issues"
+  },
+  "homepage": "https://github.com/rscheurman/modern_portfolio#readme"
 }
